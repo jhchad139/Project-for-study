@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 504117174}
   - component: {fileID: 504117173}
   m_Layer: 0
-  m_Name: Triangle
+  m_Name: "\uBC15\uAC15\uD574\uBC14\uBCF4"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
